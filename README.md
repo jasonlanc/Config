@@ -1,2 +1,2 @@
-# Counter-Strike-Global-Offensive-CFG
+# Config
 Counter-Strike: Global Offensive config, autoexec, &amp; video.txt
